@@ -1,0 +1,7 @@
+(01) contents of "json_v1_0_5.zip" were created under user "system".
+(02) "grants.sql" were executed in "sys" & "system".
+(03) created "ACL" using "JSON_ACL.sql"
+(04) "PROC_JSON" is created using "PROC_JSON_Procedure.sql".
+(05) Run the "displayValuesSent.php" using any Apache Server. Change URL in procedure 
+     appropriately.
+(06) Executed the script using "run_script.sql".
